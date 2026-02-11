@@ -1,0 +1,2 @@
+We created shard folder that contains navbar, other bars that are sharable
+and common among all pages.

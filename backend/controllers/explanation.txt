@@ -1,0 +1,4 @@
+In Controller we basically write business logic,
+Registration process for users and recuriters etc.. logics.
+
+And we will import this in routes, once we create endpoints for each functionality.

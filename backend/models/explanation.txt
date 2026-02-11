@@ -1,0 +1,9 @@
+// In Models we define Database Schema(contains variables and datatypes) of what to be inserted.
+
+// We divide our entire DB Schema into 4 parts :
+
+//  1- User data Schema
+//  2- Company Schema
+//  3- Job posting Schema
+//  4- User job applied Schema
+
